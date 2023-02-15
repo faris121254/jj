@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "rozaqarmedian@gmail.com",
+  "author": "fariskhalifa30@gmail.com",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^5.0.0",
